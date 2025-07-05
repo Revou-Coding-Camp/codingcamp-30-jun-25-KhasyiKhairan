@@ -1,0 +1,14 @@
+https://github.com/Revou-Coding-Camp/codingcamp-30-jun-25-KhasyiKhairan.git
+
+
+
+repository link : 
+https://github.com/Revou-Coding-Camp/codingcamp-30-jun-25-KhasyiKhairan
+
+Your site is live at 
+https://revou-coding-camp.github.io/codingcamp-30-jun-25-KhasyiKhairan/
+
+command update git. masuk dulu ke folder project
+git add .
+git commit -m "edit data branch dan copyleft"
+git push origin main
